@@ -9,7 +9,7 @@
     "draft-js": "^0.10.5",
     "draftjs-to-html": "^0.8.4",
     "graphql": "^14.0.2",
-    "immer": "^1.7.4",
+    "immer": "^9.0.6",
     "jwt-decode": "^2.2.0",
     "lodash": "^4.17.11",
     "react": "^16.6.0",
